@@ -1,0 +1,5 @@
+cn\itcast\consumer\web\ConsumerController.class
+cn\itcast\consumer\client\UserClientFallback.class
+cn\itcast\ConsumerApplication.class
+cn\itcast\consumer\client\UserClient.class
+cn\itcast\consumer\pojo\User.class
